@@ -1,0 +1,23 @@
+{
+  "name": "@xiee/arith",
+  "version": "1.0.0",
+  "description": "简单的四则运算练习程序",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yihui/arith.js.git"
+  },
+  "keywords": [
+    "arithmetic",
+    "exercise",
+    "ui"
+  ],
+  "author": "Yihui Xie <xie@yihui.name> (https://yihui.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yihui/arith.js/issues"
+  },
+  "homepage": "https://github.com/yihui/arith.js#readme"
+}
