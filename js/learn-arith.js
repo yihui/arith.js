@@ -10,7 +10,7 @@
     '.arith thead{font-size:3em;text-align:center;}#number-ans{width:4em;padding:.1em;font-size:inherit;}' +
     '#arith-go{padding:.1em .2em;vertical-align:middle;font-size:0.8em;}' +
     '#arith-type{padding:.2em;}.arith input[type="number"]{padding:.2em;width:3em;}</style>' +
-    '<table class="arith"><thead><tr><td><span id="number-1">?</span></td>' +
+    '<table class="arith fullwidth"><thead><tr><td><span id="number-1">?</span></td>' +
     '<td><span id="number-op">+</span></td>' +
     '<td><span id="number-2">?</span></td>' +
     '<td><span>= </span><input type="number" id="number-ans" /></td>' +
