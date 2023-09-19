@@ -7,7 +7,7 @@
   document.querySelector('.arith') || s.insertAdjacentHTML('afterend', '<style type="text/css">' +
     '.arith{border:none}.arith tr:nth-child(even){background:none;}' +
     '.arith.correct *{color:forestgreen;}.arith.wrong *{color:orangered;}' +
-    '.arith thead{font-size:3em;text-align:center;}#number-ans{width:4em;padding:.1em;}' +
+    '.arith thead{font-size:3em;text-align:center;}#number-ans{width:4em;padding:.1em;font-size:inherit;}' +
     '#arith-go{padding:.1em .2em;vertical-align:middle;font-size:0.8em;}' +
     '#arith-type{padding:.2em;}.arith input[type="number"]{padding:.2em;width:3em;}</style>' +
     '<table class="arith"><thead><tr><td><span id="number-1">?</span></td>' +
