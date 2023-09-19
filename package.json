@@ -1,6 +1,6 @@
 {
   "name": "@xiee/arith",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "简单的四则运算练习程序",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
